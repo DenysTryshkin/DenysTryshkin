@@ -6,11 +6,12 @@
 - 💻 **Software Developer**
 - 📚 **Master's Student in Software Engineering**
 - 🌍 **From Ukraine** 🇺🇦
+- 🏙️ **Living in Toronto, Canada** 🇨🇦
 
 ## 🚀 My Skills
-- **Programming Languages:** Python, *****, *****
-- **Frameworks & Tools:** *****, ******, ******
-- **Databases:** *****, *****, *****
+- **Programming Languages:** Python, JavaScript, C++
+- **Frameworks & Tools:** React, Node.js, Django
+- **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## 🌱 What I'm Learning
 - 🤖 Machine Learning and Artificial Intelligence
@@ -23,8 +24,8 @@
 
 ## 🔗 Contacts
 - 📧 **Email:** denystryshkin@gmail.com
-- 🔗 [**LinkedIn**]*****
-- 💼 [**Portfolio**]*****
+- 🔗 [**LinkedIn**](https://linkedin.com/in/YourLinkedInUsername)
+- 💼 [**Portfolio**](https://YourPortfolio.com)
 
 ## 🎨 Hobbies
 - 🏎️ Formula 1
@@ -43,6 +44,7 @@
 - 💻 **Розробник програмного забезпечення**
 - 📚 **Студент магістерської програми з програмної інженерії**
 - 🌍 **З України** 🇺🇦
+- 🏙️ **Проживаю в Торонто, Канада** 🇨🇦
 
 ## 🚀 Мої навички
 - **Мови програмування:** Python, JavaScript, C++
@@ -59,7 +61,7 @@
 [![Мови](https://github-readme-stats.vercel.app/api/top-langs/?username=ВашGithubUsername&layout=compact&theme=radical)](https://github.com/ВашGithubUsername)
 
 ## 🔗 Контакти
-- 📧 **Email:** your.email@example.com
+- 📧 **Email:** denystryshkin@gmail.com
 - 🔗 [**LinkedIn**](https://linkedin.com/in/ВашLinkedInUsername)
 - 💼 [**Портфоліо**](https://ВашПортфоліо.com)
 
@@ -67,4 +69,3 @@
 - 🏎️ Формула 1
 - 📚 Читання книг
 - ✈️ Подорожі
-
