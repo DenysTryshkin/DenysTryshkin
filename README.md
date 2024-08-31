@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Your Name]
+# Hello! 👋 I'm Denys
 
 <a name="hello"></a>
 
@@ -8,9 +8,9 @@
 - 🌍 **From Ukraine** 🇺🇦
 
 ## 🚀 My Skills
-- **Programming Languages:** Python, JavaScript, C++
-- **Frameworks & Tools:** React, Node.js, Django
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Programming Languages:** Python, *****, *****
+- **Frameworks & Tools:** *****, ******, ******
+- **Databases:** *****, *****, *****
 
 ## 🌱 What I'm Learning
 - 🤖 Machine Learning and Artificial Intelligence
@@ -22,13 +22,13 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGithubUsername&layout=compact&theme=radical)](https://github.com/YourGithubUsername)
 
 ## 🔗 Contacts
-- 📧 **Email:** your.email@example.com
-- 🔗 [**LinkedIn**](https://linkedin.com/in/YourLinkedInUsername)
-- 💼 [**Portfolio**](https://YourPortfolio.com)
+- 📧 **Email:** denystryshkin@gmail.com
+- 🔗 [**LinkedIn**]*****
+- 💼 [**Portfolio**]*****
 
 ## 🎨 Hobbies
-- 🎸 Playing Guitar
-- 🧘 Yoga
+- 🏎️ Formula 1
+- 📚 Reading Books
 - ✈️ Traveling
 
 ---
@@ -37,7 +37,7 @@
 
 <a name="привіт"></a>
 
-# Привіт! 👋 Я [Ваше Ім'я]
+# Привіт! 👋 Я Денис
 
 ## 🛠️ Про мене
 - 💻 **Розробник програмного забезпечення**
@@ -64,7 +64,7 @@
 - 💼 [**Портфоліо**](https://ВашПортфоліо.com)
 
 ## 🎨 Хобі
-- 🎸 Гра на гітарі
-- 🧘 Йога
+- 🏎️ Формула 1
+- 📚 Читання книг
 - ✈️ Подорожі
 
