@@ -20,9 +20,10 @@
 - ☁️ Cloud Computing and DevOps
 
 ## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true&theme=radical)](https://github.com/YourGithubUsername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВашGithubUsername&show_icons=true&theme=radical)](https://github.com/ВашGithubUsername)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGithubUsername&layout=compact&theme=radical)](https://github.com/YourGithubUsername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ВашGithubUsername&layout=compact&theme=radical)](https://github.com/ВашGithubUsername)
+
 
 ## 🔗 Contacts
 - 📧 **Email:** denystryshkin@gmail.com
