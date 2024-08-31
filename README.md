@@ -34,7 +34,7 @@
 
 ---
 
-[![EN](https://img.shields.io/badge/lang-English-blue.svg)](README_EN.md) [![UA](https://img.shields.io/badge/lang-Українська-yellow.svg)](#привіт)
+[![EN](https://img.shields.io/badge/lang-English-blue.svg)](#hello) [![UA](https://img.shields.io/badge/lang-Українська-yellow.svg)](#привіт)
 
 <a name="привіт"></a>
 
