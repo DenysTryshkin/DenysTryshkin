@@ -1,3 +1,5 @@
+[![EN](https://img.shields.io/badge/lang-English-blue.svg)](#hello) [![UA](https://img.shields.io/badge/lang-Українська-yellow.svg)](#привіт)
+
 # Hello! 👋 I'm Denys
 
 <a name="hello"></a>
