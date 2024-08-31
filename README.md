@@ -1,5 +1,3 @@
-[![EN](https://img.shields.io/badge/lang-English-blue.svg)](#hello) [![UA](https://img.shields.io/badge/lang-Українська-yellow.svg)](#привіт)
-
 # Hello! 👋 I'm Denys
 
 <a name="hello"></a>
@@ -20,10 +18,9 @@
 - ☁️ Cloud Computing and DevOps
 
 ## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВашGithubUsername&show_icons=true&theme=radical)](https://github.com/ВашGithubUsername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&theme=radical)](https://github.com/DenysTryshkin)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ВашGithubUsername&layout=compact&theme=radical)](https://github.com/ВашGithubUsername)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&theme=radical)](https://github.com/DenysTryshkin)
 
 ## 🔗 Contacts
 - 📧 **Email:** denystryshkin@gmail.com
@@ -59,9 +56,9 @@
 - ☁️ Хмарні обчислення та DevOps
 
 ## 📈 Статистика GitHub
-[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВашGithubUsername&show_icons=true&theme=radical)](https://github.com/ВашGithubUsername)
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&theme=radical)](https://github.com/DenysTryshkin)
 
-[![Мови](https://github-readme-stats.vercel.app/api/top-langs/?username=ВашGithubUsername&layout=compact&theme=radical)](https://github.com/ВашGithubUsername)
+[![Мови](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&theme=radical)](https://github.com/DenysTryshkin)
 
 ## 🔗 Контакти
 - 📧 **Email:** denystryshkin@gmail.com
@@ -72,3 +69,4 @@
 - 🏎️ Формула 1
 - 📚 Читання книг
 - ✈️ Подорожі
+
