@@ -11,13 +11,13 @@
 - 🏙️ **Living in Toronto, Canada** 🇨🇦
 
 ## 🚀 My Skills
-- **Programming Languages:** Python, JavaScript, C++
-- **Frameworks & Tools:** React, Node.js, Django
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Programming Languages:** Python
+- **Frameworks & Tools:** 
+- **Databases:** 
 
 ## 🌱 What I'm Learning
-- 🤖 Machine Learning and Artificial Intelligence
-- ☁️ Cloud Computing and DevOps
+- 
+- 
 
 ## 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&theme=radical)](https://github.com/DenysTryshkin)
@@ -26,7 +26,7 @@
 
 ## 🔗 Contacts
 - 📧 **Email:** denystryshkin@gmail.com
-- 🔗 [**LinkedIn**](https://linkedin.com/in/YourLinkedInUsername)
+- 🔗 [**LinkedIn**] (https://www.linkedin.com/in/denys-tryshkin-2b2713328/)
 - 💼 [**Portfolio**](https://YourPortfolio.com)
 
 ## 🎨 Hobbies
@@ -47,13 +47,13 @@
 - 🏙️ **Проживаю в Торонто, Канада** 🇨🇦
 
 ## 🚀 Мої навички
-- **Мови програмування:** Python, JavaScript, C++
-- **Фреймворки та інструменти:** React, Node.js, Django
-- **Бази даних:** MySQL, PostgreSQL, MongoDB
+- **Мови програмування:** Python
+- **Фреймворки та інструменти:** 
+- **Бази даних:** 
 
 ## 🌱 Що я вивчаю
-- 🤖 Машинне навчання та штучний інтелект
-- ☁️ Хмарні обчислення та DevOps
+- 
+- 
 
 ## 📈 Статистика GitHub
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&theme=radical)](https://github.com/DenysTryshkin)
@@ -62,7 +62,7 @@
 
 ## 🔗 Контакти
 - 📧 **Email:** denystryshkin@gmail.com
-- 🔗 [**LinkedIn**](https://linkedin.com/in/ВашLinkedInUsername)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/denys-tryshkin-2b2713328/)
 - 💼 [**Портфоліо**](https://ВашПортфоліо.com)
 
 ## 🎨 Хобі
