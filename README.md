@@ -26,7 +26,7 @@
 
 ## 🔗 Contacts
 - 📧 **Email:** denystryshkin@gmail.com
-- 🔗 [**LinkedIn**] (https://www.linkedin.com/in/denys-tryshkin-2b2713328/)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/denys-tryshkin-2b2713328/)
 - 💼 [**Portfolio**](https://YourPortfolio.com)
 
 ## 🎨 Hobbies
