@@ -24,22 +24,20 @@
 ## 🚀 Featured Projects
 
 ### 🔹 [GrannyHelper](https://github.com/DenysTryshkin/GrannyHelper)
-**Stack:** Python (Flask/FastAPI), SQLite/PostgreSQL, HTML/CSS/JavaScript  
+**Technologies:** Python  
 
 📌 **Description:**  
-A web application designed to help elderly people and their families manage daily tasks and reminders in a simple and accessible way.  
+This chatbot helps your beloved Granny remember all important information about the family, reminds her of tasks, and provides a simple, user-friendly interface.  
 
 ⭐ **Features:**  
-- 📝 Task and reminder management (create, edit, delete)  
-- 👵 User-friendly interface focused on accessibility for seniors  
-- 🔔 Notifications and reminders for scheduled tasks  
-- 📊 Basic statistics for family members to track activities  
-- 🌐 Deployable as a web service  
+- 📝 Store and remind family information  
+- 👵 Easy-to-use interface for seniors  
+- 🔔 Notifications for important events and tasks  
 
 🚀 **Future improvements:**  
-- Mobile-friendly responsive UI  
-- Cloud deployment (Heroku/AWS)  
-- User authentication (login & roles for family members vs seniors)  
+- Integration with Telegram or other messengers  
+- Enhanced data storage (SQLite → PostgreSQL)  
+- Multi-user management  
 
 ## 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&theme=radical)](https://github.com/DenysTryshkin)
@@ -81,23 +79,41 @@ A web application designed to help elderly people and their families manage dail
 
 ## 🚀 Основні проєкти
 
+## 🚀 Основні проєкти
+
 ### 🔹 [GrannyHelper](https://github.com/DenysTryshkin/GrannyHelper)
-**Технології:** Python (Flask/FastAPI), SQLite/PostgreSQL, HTML/CSS/JavaScript  
+**Технології:** Python  
 
 📌 **Опис:**  
-Веб-додаток, створений для допомоги літнім людям та їхнім сім’ям у керуванні щоденними завданнями та нагадуваннями просто та доступно.  
+Цей чат-бот допомагає вашій улюбленій бабусі запам’ятовувати всю важливу інформацію про сім’ю, нагадує про завдання та підтримує просту комунікацію.  
 
 ⭐ **Функції:**  
-- 📝 Управління завданнями та нагадуваннями (створення, редагування, видалення)  
-- 👵 Зручний інтерфейс, орієнтований на доступність для літніх користувачів  
-- 🔔 Нагадування про заплановані завдання  
-- 📊 Базова статистика для членів сім’ї для відстеження активностей  
-- 🌐 Можливість розгортання як веб-сервіс  
+- 📝 Збереження та нагадування про сімейну інформацію  
+- 👵 Простий та зрозумілий інтерфейс для літніх людей  
+- 🔔 Нагадування про важливі події та завдання  
 
 🚀 **Плани на майбутнє:**  
-- Адаптивний мобільний дизайн  
-- Хмарне розгортання (Heroku/AWS)  
-- Аутентифікація користувачів (логін та ролі для сім’ї та літніх людей)
+- Можливість інтеграції з Telegram або іншими месенджерами  
+- Розширене зберігання даних (SQLite → PostgreSQL)  
+- Керування кількома користувачами  
+
+---
+
+### 🔹 [GrannyHelper](https://github.com/DenysTryshkin/GrannyHelper)
+**Technologies:** Python  
+
+📌 **Description:**  
+This chatbot helps your beloved Granny remember all important information about the family, reminds her of tasks, and provides a simple, user-friendly interface.  
+
+⭐ **Features:**  
+- 📝 Store and remind family information  
+- 👵 Easy-to-use interface for seniors  
+- 🔔 Notifications for important events and tasks  
+
+🚀 **Future improvements:**  
+- Integration with Telegram or other messengers  
+- Enhanced data storage (SQLite → PostgreSQL)  
+- Multi-user management  
 
 ## 📈 Статистика GitHub
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&theme=radical)](https://github.com/DenysTryshkin)
