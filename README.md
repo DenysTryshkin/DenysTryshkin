@@ -95,26 +95,8 @@ This chatbot helps your beloved Granny remember all important information about 
 🚀 **Плани на майбутнє:**  
 - Можливість інтеграції з Telegram або іншими месенджерами  
 - Розширене зберігання даних (SQLite → PostgreSQL)  
-- Керування кількома користувачами  
-
----
-
-### 🔹 [GrannyHelper](https://github.com/DenysTryshkin/GrannyHelper)
-**Technologies:** Python  
-
-📌 **Description:**  
-This chatbot helps your beloved Granny remember all important information about the family, reminds her of tasks, and provides a simple, user-friendly interface.  
-
-⭐ **Features:**  
-- 📝 Store and remind family information  
-- 👵 Easy-to-use interface for seniors  
-- 🔔 Notifications for important events and tasks  
-
-🚀 **Future improvements:**  
-- Integration with Telegram or other messengers  
-- Enhanced data storage (SQLite → PostgreSQL)  
-- Multi-user management  
-
+- Керування кількома користувачами
+  
 ## 📈 Статистика GitHub
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&theme=radical)](https://github.com/DenysTryshkin)
 
