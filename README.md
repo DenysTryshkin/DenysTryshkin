@@ -19,7 +19,27 @@
 - **System Design & Cloud Computing (AWS, Azure, GCP)**  
 - **Fullstack Development** with Python & React  
 - **DevOps & Automation** (containerization, orchestration, CI/CD pipelines)  
-- **Cross-Platform Mobile Development** with React Native  
+- **Cross-Platform Mobile Development** with React Native
+
+## 🚀 Featured Projects
+
+### 🔹 [GrannyHelper](https://github.com/DenysTryshkin/GrannyHelper)
+**Stack:** Python (Flask/FastAPI), SQLite/PostgreSQL, HTML/CSS/JavaScript  
+
+📌 **Description:**  
+A web application designed to help elderly people and their families manage daily tasks and reminders in a simple and accessible way.  
+
+⭐ **Features:**  
+- 📝 Task and reminder management (create, edit, delete)  
+- 👵 User-friendly interface focused on accessibility for seniors  
+- 🔔 Notifications and reminders for scheduled tasks  
+- 📊 Basic statistics for family members to track activities  
+- 🌐 Deployable as a web service  
+
+🚀 **Future improvements:**  
+- Mobile-friendly responsive UI  
+- Cloud deployment (Heroku/AWS)  
+- User authentication (login & roles for family members vs seniors)  
 
 ## 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&theme=radical)](https://github.com/DenysTryshkin)
@@ -58,6 +78,26 @@
 - **Fullstack розробка** з Python та React  
 - **DevOps та автоматизація** (контейнеризація, оркестрація, CI/CD)  
 - **Кросплатформена мобільна розробка** з React Native  
+
+## 🚀 Основні проєкти
+
+### 🔹 [GrannyHelper](https://github.com/DenysTryshkin/GrannyHelper)
+**Технології:** Python (Flask/FastAPI), SQLite/PostgreSQL, HTML/CSS/JavaScript  
+
+📌 **Опис:**  
+Веб-додаток, створений для допомоги літнім людям та їхнім сім’ям у керуванні щоденними завданнями та нагадуваннями просто та доступно.  
+
+⭐ **Функції:**  
+- 📝 Управління завданнями та нагадуваннями (створення, редагування, видалення)  
+- 👵 Зручний інтерфейс, орієнтований на доступність для літніх користувачів  
+- 🔔 Нагадування про заплановані завдання  
+- 📊 Базова статистика для членів сім’ї для відстеження активностей  
+- 🌐 Можливість розгортання як веб-сервіс  
+
+🚀 **Плани на майбутнє:**  
+- Адаптивний мобільний дизайн  
+- Хмарне розгортання (Heroku/AWS)  
+- Аутентифікація користувачів (логін та ролі для сім’ї та літніх людей)
 
 ## 📈 Статистика GitHub
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&theme=radical)](https://github.com/DenysTryshkin)
