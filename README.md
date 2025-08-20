@@ -46,8 +46,7 @@ This chatbot helps your beloved Granny remember all important information about 
 
 ## 🔗 Contacts
 - 📧 **Email:** denystryshkin@gmail.com  
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/denys-tryshkin-2b2713328/)  
-- 💼 [**Portfolio**](https://YourPortfolio.com)  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/denys-tryshkin-2b2713328/)    
 
 ## 🎨 Hobbies
 - 🏎️ Formula 1  
@@ -102,8 +101,7 @@ This chatbot helps your beloved Granny remember all important information about 
 
 ## 🔗 Контакти
 - 📧 **Email:** denystryshkin@gmail.com  
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/denys-tryshkin-2b2713328/)  
-- 💼 [**Портфоліо**](https://ВашПортфоліо.com)  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/denys-tryshkin-2b2713328/)    
 
 ## 🎨 Хобі
 - 🏎️ Формула 1  
