@@ -79,8 +79,6 @@ This chatbot helps your beloved Granny remember all important information about 
 
 ## 🚀 Основні проєкти
 
-## 🚀 Основні проєкти
-
 ### 🔹 [GrannyHelper](https://github.com/DenysTryshkin/GrannyHelper)
 **Технології:** Python  
 
