@@ -72,15 +72,30 @@ A chatbot designed to help seniors remember important family information and dai
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+        alt="Denys GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-| GitHub Stats | Top Languages |
-| ------------ | ------------- |
-| ![](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&langs_count=8&hide_border=true&theme=github_dark) |
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=DenysTryshkin&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DenysTryshkin&theme=github-dark&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenysTryshkin&theme=github-compact&hide_border=true)
 
 
 
