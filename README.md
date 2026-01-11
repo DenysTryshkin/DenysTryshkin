@@ -1,7 +1,3 @@
----
-
-<a name="hello"></a>
-
 # 👋 Hi, I'm Denys
 
 **Software Developer | MSc in Computer Science (Software Engineering)**  
