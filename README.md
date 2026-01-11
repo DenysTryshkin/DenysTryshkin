@@ -1,6 +1,16 @@
 [![EN](https://img.shields.io/badge/lang-English-blue.svg)](#hello)
 [![UA](https://img.shields.io/badge/lang-Українська-yellow.svg)](#привіт)
 
+![GitHub Streak](https://streak-stats.demolab.com
+?user=DenysTryshkin
+&theme=github-dark
+&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph
+?username=DenysTryshkin
+&theme=github-compact
+&hide_border=true)
+
 ---
 
 <a name="hello"></a>
