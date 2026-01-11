@@ -72,6 +72,8 @@ A chatbot designed to help seniors remember important family information and dai
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 | GitHub Stats | Top Languages |
 | ------------ | ------------- |
 | ![](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&langs_count=8&hide_border=true&theme=github_dark) |
