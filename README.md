@@ -64,28 +64,6 @@ A chatbot designed to help seniors remember important family information and dai
 ---
 ## 📊 GitHub Activity & Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=DenysTryshkin&theme=github-dark&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
-
-
 
 ---
 
@@ -170,8 +148,6 @@ A chatbot designed to help seniors remember important family information and dai
 ---
 
 ## 📊 Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&theme=radical)
 
 ---
 
