@@ -63,10 +63,7 @@ A chatbot designed to help seniors remember important family information and dai
 
 ---
 ## 🌟 GitHub Activity Overview
-<p align="center">
-  <!-- Recent Contributions Graph -->
-  <img src="https://ghchart.rshah.org/DenysTryshkin" alt="Contribution Graph" width="100%" />
-</p>
+<img src="https://img.shields.io/badge/Profile-@DenysTryshkin-blue?style=flat-square" alt="GitHub Profile" />
 ---
 
 ## 📬 Contacts
