@@ -65,20 +65,20 @@ A chatbot designed to help seniors remember important family information and dai
 ## ✨ GitHub Overview
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DenysTryshkin&label=Profile%20views&color=lightgrey&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=DenysTryshkin&label=Profile%20views&color=blue&style=flat-square" />
 </p>
 
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" />
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&count_private=true&theme=radical&hide_border=false" />
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DenysTryshkin&theme=transparent&hide_border=true&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DenysTryshkin&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=DenysTryshkin&bg_color=transparent&color=8b949e&line=58a6ff&point=58a6ff&hide_border=true" />
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=DenysTryshkin&theme=react-dark&hide_border=false" />
 </p>
 
 ---
