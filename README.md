@@ -62,25 +62,11 @@ A chatbot designed to help seniors remember important family information and dai
 - Multi-user support
 
 ---
-## ✨ GitHub Overview
+## 📊 GitHub Stats (via gitMyStat!)
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=DenysTryshkin&label=Profile%20views&color=blue&style=flat-square" />
+  <img src="https://gitmystat.vercel.app/api?username=DenysTryshkin&theme=dark" alt="GitHub stats" />
 </p>
-
-<p align="center">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=DenysTryshkin&show_icons=true&count_private=true&theme=radical&hide_border=false" />
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DenysTryshkin&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=DenysTryshkin&theme=react-dark&hide_border=false" />
-</p>
-
 ---
 
 ## 📬 Contacts
