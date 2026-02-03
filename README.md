@@ -63,30 +63,10 @@ A chatbot designed to help seniors remember important family information and dai
 
 ---
 ## 🌟 GitHub Activity Overview
-
-<p align="center">
-  <!-- Profile Summary -->
-  <img src="https://img.shields.io/badge/Profile-@DenysTryshkin-blue?style=flat-square" alt="GitHub Profile" />
-  <img src="https://img.shields.io/badge/Followers-???-blue?style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/badge/Repos-???-blue?style=flat-square" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Stars-???-blue?style=flat-square" alt="Stars" />
-</p>
-
 <p align="center">
   <!-- Recent Contributions Graph -->
   <img src="https://ghchart.rshah.org/DenysTryshkin" alt="Contribution Graph" width="100%" />
 </p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Custom Git Activity Card -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenysTryshkin&bg_color=ffffff&color=58a6ff&line=58a6ff&point=ff5733&hide_border=false" alt="GitHub Activity Graph" width="100%" />
-</p>
-
 ---
 
 ## 📬 Contacts
