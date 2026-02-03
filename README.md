@@ -62,24 +62,29 @@ A chatbot designed to help seniors remember important family information and dai
 - Multi-user support
 
 ---
-## ✨ GitHub Overview (stable)
+## 🌟 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DenysTryshkin&style=flat-square&color=blue" alt="Profile views" />
+  <!-- Profile Summary -->
+  <img src="https://img.shields.io/badge/Profile-@DenysTryshkin-blue?style=flat-square" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Followers-???-blue?style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/badge/Repos-???-blue?style=flat-square" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Stars-???-blue?style=flat-square" alt="Stars" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/DenysTryshkin?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/repos/DenysTryshkin?style=flat-square" alt="Repos" />
-  <img src="https://img.shields.io/github/last-commit/DenysTryshkin/GrannyHelper?style=flat-square" alt="Last commit (example repo)" />
+  <!-- Recent Contributions Graph -->
+  <img src="https://ghchart.rshah.org/DenysTryshkin" alt="Contribution Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://gitmystat.vercel.app/api?username=DenysTryshkin&theme=dark" alt="GitMyStat" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysTryshkin&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/DenysTryshkin" alt="Contribution chart" width="100%" />
+  <!-- Custom Git Activity Card -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenysTryshkin&bg_color=ffffff&color=58a6ff&line=58a6ff&point=ff5733&hide_border=false" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
