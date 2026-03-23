@@ -69,7 +69,7 @@ A chatbot designed to help seniors remember important family information and dai
 </p>
 
 ## 📬 Contacts
-- 📧 Email: **denystryshkin@gmail.com**
+- 📧 **denystryshkin@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/denys-tryshkin-2b2713328/)
 
 ---
