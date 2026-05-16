@@ -1,82 +1,106 @@
-# 👋 Hi, I'm Denys
+# 👋 Hi, I'm Denys Tryshkin
 
-**Software Developer | MSc in Computer Science (Software Engineering)**  
-🇺🇦 Ukraine → 🇨🇦 Toronto, Canada
-
----
-
-## 🧑‍💻 About Me
-Software Developer with a **completed Master’s degree in Computer Science (Software Engineering)** and a strong foundation in  
-**system design, full-stack development, cloud computing, and DevOps**.
-
-I focus on building scalable, well-architected applications and enjoy working across the full software lifecycle — from design to deployment.
+**Software Engineer | React • TypeScript • JavaScript • Python | Frontend & AI**
+Based in Toronto, Canada 🇨🇦
 
 ---
 
-## 🎓 Education
+## About Me
 
-**Master of Science in Computer Science**  
-*Specialization: Software Engineering* — **Completed**
+I’m a software engineer focused on building scalable, responsive, and user-centered web applications using **React, TypeScript, JavaScript, Python**, and modern frontend technologies.
 
-**Key focus areas**
-- Algorithms & Data Structures
-- System Design & Software Architecture
-- Full-Stack Web Development (Python, Node.js, React)
-- Cloud Computing (AWS-focused, platform-agnostic)
-- DevOps & CI/CD (Docker, Kubernetes, Jenkins)
-- Databases & Data Modeling (SQL, relational design)
-- Software Quality, Testing & Agile Practices
-- UX/UI & Interaction Design (collaboration-ready mindset)
+Currently pursuing a **Master of Science in Software Engineering & Artificial Intelligence**, while developing hands-on experience in frontend engineering, REST API integration, state management, algorithms, and scalable UI architecture.
+
+I enjoy writing clean, maintainable code and building practical applications that solve real user problems.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Technologies
 
-**Languages**
-- Python · JavaScript · TypeScript
+### Frontend
 
-**Frameworks & Tools**
-- React · Node.js · Express · React Native  
-- Docker · Kubernetes · Git · Jenkins (CI/CD)
+* React
+* TypeScript
+* JavaScript (ES6+)
+* Redux Toolkit
+* HTML5
+* CSS3
+* Responsive Web Design
+* Vite
 
-**Databases**
-- MySQL · PostgreSQL · MongoDB
+### Backend, Data & AI Foundations
+
+* Python
+* REST API integration
+* SQL fundamentals
+* Algorithms & Data Structures
+* Software Engineering fundamentals
+* Artificial Intelligence fundamentals
+
+### Tools & Workflow
+
+* Git
+* GitHub
+* VS Code
+* Figma
+* Agile development basics
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### 🔹 [GrannyHelper](https://github.com/DenysTryshkin/GrannyHelper)
-**Tech:** Python  
 
-A chatbot designed to help seniors remember important family information and daily tasks through a simple, user-friendly interface.
+**Tech Stack:** Python
 
-**Key features**
-- Family information storage & reminders  
-- Senior-friendly UX  
-- Task & event notifications  
+A Python-based assistant designed to help seniors remember important family information, daily tasks, and personal reminders through a simple and accessible interface.
 
-**Planned improvements**
-- Messenger integration (Telegram, etc.)
-- Database upgrade (SQLite → PostgreSQL)
-- Multi-user support
+**Key Features**
+
+* Family information storage
+* Task and reminder management
+* Simple command-line interaction
+* Senior-friendly user flow
+* Practical focus on accessibility and usability
+
+**Planned Improvements**
+
+* Telegram bot integration
+* Database upgrade with SQLite or PostgreSQL
+* Multi-user support
+* Notification system
+* Improved data persistence and user management
 
 ---
-## 🌟 GitHub Activity Overview
+
+## Currently Focused On
+
+* Building frontend projects with React and TypeScript
+* Improving state management with Redux Toolkit
+* Working with REST APIs and asynchronous JavaScript
+* Strengthening Python, algorithms, and problem-solving skills
+* Developing a strong software engineering portfolio
+
+---
+
+## GitHub Activity
+
 <p align="center">
-<!-- Custom Git Activity Card -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DenysTryshkin&bg_color=ffffff&color=58a6ff&line=58a6ff&point=ff5733&hide_border=false" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenysTryshkin&bg_color=ffffff&color=58a6ff&line=58a6ff&point=ff5733&hide_border=false" alt="GitHub Activity Graph" width="100%" />
 </p>
 
-## 📬 Contacts
-- 📧 **denystryshkin@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/denys-tryshkin-2b2713328/)
+---
+
+## Education
+
+**Master of Science in Software Engineering & Artificial Intelligence**
+Neoversity / Woolf
+Expected: February 2028
 
 ---
 
-## 🎯 Interests
-- Formula 1 🏎️  
-- Reading 📚  
-- Traveling ✈️  
+## Contact
 
----
+* Email: **[denystryshkin@gmail.com](mailto:denystryshkin@gmail.com)**
+* LinkedIn: [linkedin.com/in/denys-tryshkin](https://www.linkedin.com/in/denys-tryshkin/)
+* GitHub: [github.com/DenysTryshkin]([https://github.com/DenysTrysh](https://github.com/DenysTrysh)
