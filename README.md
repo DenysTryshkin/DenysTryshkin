@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Denys Tryshkin
 
-**Software Engineer | React • TypeScript • JavaScript • Python | Frontend & AI**
+**Junior Frontend Developer | React • TypeScript • JavaScript • Python**  
 Based in Toronto, Canada 🇨🇦
 
 ---
 
 ## About Me
 
-I’m a software engineer focused on building scalable, responsive, and user-centered web applications using **React, TypeScript, JavaScript, Python**, and modern frontend technologies.
+I'm a junior frontend developer focused on building responsive, user-friendly, and maintainable web applications using **React, TypeScript, JavaScript, HTML, CSS**, and modern frontend tools.
 
-Currently pursuing a **Master of Science in Software Engineering & Artificial Intelligence**, while developing hands-on experience in frontend engineering, REST API integration, state management, algorithms, and scalable UI architecture.
+I'm currently pursuing a **Master of Science in Computer Science** with a specialization in **Software Engineering and Artificial Intelligence**. Through my studies and projects, I’m developing practical skills in frontend engineering, REST API integration, state management, algorithms, databases, and scalable software architecture.
 
-I enjoy writing clean, maintainable code and building practical applications that solve real user problems.
+I enjoy writing clean code, learning modern development practices, and building practical applications that solve real user problems.
 
 ---
 
@@ -19,31 +19,31 @@ I enjoy writing clean, maintainable code and building practical applications tha
 
 ### Frontend
 
-* React
-* TypeScript
-* JavaScript (ES6+)
-* Redux Toolkit
-* HTML5
-* CSS3
-* Responsive Web Design
-* Vite
+- React
+- TypeScript
+- JavaScript (ES6+)
+- Redux Toolkit
+- HTML5
+- CSS3
+- Responsive Web Design
+- Vite
 
-### Backend, Data & AI Foundations
+### Backend, Data & Computer Science Foundations
 
-* Python
-* REST API integration
-* SQL fundamentals
-* Algorithms & Data Structures
-* Software Engineering fundamentals
-* Artificial Intelligence fundamentals
+- Python
+- REST API Integration
+- SQL Fundamentals
+- Algorithms & Data Structures
+- Software Engineering Fundamentals
+- Artificial Intelligence Fundamentals
 
 ### Tools & Workflow
 
-* Git
-* GitHub
-* VS Code
-* Figma
-* Agile development basics
+- Git
+- GitHub
+- VS Code
+- Figma
+- Agile Development Basics
 
 ---
 
@@ -53,33 +53,33 @@ I enjoy writing clean, maintainable code and building practical applications tha
 
 **Tech Stack:** Python
 
-A Python-based assistant designed to help seniors remember important family information, daily tasks, and personal reminders through a simple and accessible interface.
+GrannyHelper is a Python-based assistant designed to help seniors manage important family information, daily tasks, and personal reminders through a simple and accessible command-line interface.
 
-**Key Features**
+### Key Features
 
-* Family information storage
-* Task and reminder management
-* Simple command-line interaction
-* Senior-friendly user flow
-* Practical focus on accessibility and usability
+- Family information storage
+- Task and reminder management
+- Simple command-line interaction
+- Senior-friendly user flow
+- Practical focus on accessibility and usability
 
-**Planned Improvements**
+### Planned Improvements
 
-* Telegram bot integration
-* Database upgrade with SQLite or PostgreSQL
-* Multi-user support
-* Notification system
-* Improved data persistence and user management
+- Telegram bot integration
+- SQLite or PostgreSQL database integration
+- Multi-user support
+- Notification system
+- Improved data persistence and user management
 
 ---
 
 ## Currently Focused On
 
-* Building frontend projects with React and TypeScript
-* Improving state management with Redux Toolkit
-* Working with REST APIs and asynchronous JavaScript
-* Strengthening Python, algorithms, and problem-solving skills
-* Developing a strong software engineering portfolio
+- Building frontend projects with React and TypeScript
+- Improving state management with Redux Toolkit
+- Working with REST APIs and asynchronous JavaScript
+- Strengthening Python, algorithms, and problem-solving skills
+- Developing a strong software engineering portfolio
 
 ---
 
@@ -93,14 +93,15 @@ A Python-based assistant designed to help seniors remember important family info
 
 ## Education
 
-**Master of Science in Software Engineering & Artificial Intelligence**
-Neoversity / Woolf
+**Master of Science in Computer Science**  
+Specialization: **Software Engineering and Artificial Intelligence**  
+Neoversity / Woolf  
 Expected: February 2028
 
 ---
 
 ## Contact
 
-* Email: **[denystryshkin@gmail.com](mailto:denystryshkin@gmail.com)**
-* LinkedIn: [linkedin.com/in/denys-tryshkin](https://www.linkedin.com/in/denys-tryshkin/)
-* GitHub: [github.com/DenysTryshkin]([https://github.com/DenysTrysh](https://github.com/DenysTrysh)
+- Email: [denystryshkin@gmail.com](mailto:denystryshkin@gmail.com)
+- LinkedIn: [linkedin.com/in/denys-tryshkin](https://www.linkedin.com/in/denys-tryshkin/)
+- GitHub: [github.com/DenysTryshkin](https://github.com/DenysTryshkin)
