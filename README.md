@@ -47,7 +47,7 @@ I enjoy writing clean code, learning modern development practices, and building 
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### 🔹 [GrannyHelper](https://github.com/DenysTryshkin/GrannyHelper)
 
@@ -55,7 +55,7 @@ I enjoy writing clean code, learning modern development practices, and building 
 
 GrannyHelper is a Python-based assistant designed to help seniors manage important family information, daily tasks, and personal reminders through a simple and accessible command-line interface.
 
-### Key Features
+#### Key Features
 
 - Family information storage
 - Task and reminder management
@@ -63,13 +63,47 @@ GrannyHelper is a Python-based assistant designed to help seniors manage importa
 - Senior-friendly user flow
 - Practical focus on accessibility and usability
 
-### Planned Improvements
+#### Planned Improvements
 
 - Telegram bot integration
 - SQLite or PostgreSQL database integration
 - Multi-user support
 - Notification system
 - Improved data persistence and user management
+
+---
+
+### 🔹 [BestCoders — English Excellence Landing Page](https://github.com/DenysTryshkin/bestcoders)
+
+**Tech Stack:** HTML · CSS · JavaScript · Vite
+
+BestCoders is a responsive landing page for an English language school, created as a team frontend project. The website presents the school’s services, lesson plans, teachers, student reviews, and a contact form through a clean and user-friendly interface.
+
+This project helped me practice real-world frontend workflow, semantic HTML structure, responsive layout, reusable CSS organization, JavaScript basics, and collaboration using Git and GitHub.
+
+#### Key Features
+
+- Responsive multi-section landing page
+- Hero section with clear call-to-action
+- Lesson and pricing cards
+- Teacher profiles section
+- Student reviews section
+- Contact/application form
+- Organized project structure with assets and source files
+- Deployment with GitHub Pages
+
+#### Planned Improvements
+
+- Improve accessibility and keyboard navigation
+- Add form validation with JavaScript
+- Refactor styles for better maintainability
+- Add animations and smoother user interactions
+- Improve performance and SEO optimization
+
+#### Links
+
+- [Live Demo](https://grinalex.github.io/bestcoders/)
+- [Repository](https://github.com/DenysTryshkin/bestcoders)
 
 ---
 
